@@ -16,7 +16,7 @@ Denne teksten er delt inn i to deler:
         * [Publisere endringer](#publisere-endringer)
     * [Kom i gang: lokal redigering](#kom-i-gang-lokal-redigering)
         * [Installer *Tex live*](#installer-tex-live)
-        * [Instaler et redigeringsprogram](#instaler-et-redigeringsprogram)
+        * [installer et redigeringsprogram](#installer-et-redigeringsprogram)
         * [Last ned og rediger](#last-ned-og-rediger.)
     * [Kom i gang: online redigering](#kom-i-gang-online-redigering)
         * [Overleaf](#overleaf)
@@ -84,7 +84,7 @@ Alle har lov til å gjøre endringer (på en ny branch) og sette opp en pull req
     * Endringer etter generalvorssamling skal ligge ute åpenlyst for alle medlemmer i 14 dager før pull requesten kan merges til master.
     * Redaksjonelle endringer skal godkjennes av styret. 
     * forslag godkjennes ikke før de har blitt vedtatt på generalvorssamling.
-    * Endringer i kode godkjennes av webansvarlig i styret.
+    * Endringer i kode godkjennes av webansvarlitg i styret.
 
 ## Kom i gang: lokal redigering
 
@@ -95,10 +95,10 @@ Ved å bruke Tex Live sikrer vi at alle jobber i likt miljø. Dermed risikerer m
 
 Last ned Tex Live [her](https://www.tug.org/texlive/acquire-netinstall.html).
 
-### Instaler et redigeringsprogram
-Det fins flere redigeringsprogram for latex, så her står man fritt til å velge hva som helst. Det mest omfattende programmet (per 2021) er **[TeXstudio](https://www.texstudio.org/)**. Det er et åpent kildekodeprosjekt i [aktiv utvikling](https://github.com/texstudio-org/texstudio), og er det programmet med mest tillegsfunksjoner.
+### installer et redigeringsprogram
+Det fins flere redigeringsprogram for latex, så her står man fritt til å velge hva som helst. Det mest omfattende programmet (per 2021) er **[TeXstudio](https://www.texstudio.org/)**. Det er et åpent kildekodeprosjekt i [aktiv utvikling](https://github.com/texstudio-org/texstudio), og er det programmet med mest tilleggsfunksjoner.
 
-Det er verdt å få med seg at redigeringsprogrammer for latex hovedsakelig er tekstredigeringsverktøy som kaller på API-er i latex distribusjonen du har installert. Under panseret gjør altså latex distribusjonen det meste av arbeidet. Derfor kan ikke et redigeringsprogram stå på egne ben. En latex distribusjon må først være instalert på opperativsystemet.
+Det er verdt å få med seg at redigeringsprogrammer for latex hovedsakelig er tekstredigeringsverktøy som kaller på API-er i latex distribusjonen du har installert. Under panseret gjør altså latex distribusjonen det meste av arbeidet. Derfor kan ikke et redigeringsprogram stå på egne ben. En latex distribusjon må først være installert på opperativsystemet.
 
 ### Last ned og rediger
 Gratulerer, nå gjenstår det bare å laste ned prosjektet, åpne `statutter.tex`, og å starte å rediger.  
